@@ -1,5 +1,5 @@
 ## NLW eSports
-![preview](https://github.com/Jamesgoplay/NLW/blob/main/assets/jamesgoplay.github.io_NLW_.png?raw=true)
+![preview](https://github.com/Jamesgoplay/NLW/blob/daaf8e041908bf6425695235f8896295284f4f20/assets/Previa.png)
 
 > Trilha Explorer 
 
